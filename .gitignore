@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+env/
+
+# Model weights
+*.caffemodel
+*.h5
+*.pt
+*.pth
+
+# OS junk
+.DS_Store
+Thumbs.db
