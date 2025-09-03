@@ -7,7 +7,6 @@ venv/
 env/
 
 # Model weights
-*.caffemodel
 *.h5
 *.pt
 *.pth
