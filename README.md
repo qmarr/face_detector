@@ -3,3 +3,5 @@ Model file from:
 
 to launch py file use:
 python detect_faces.py --image test.jpg --prototxt deploy.prototxt --model face_detector.caffemodel
+
+python detect_faces_video.py --prototxt deploy.prototxt --model face_detector.caffemodel
